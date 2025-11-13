@@ -1,6 +1,6 @@
 Coordinated cellular programs distinguish response to PD-L1 blockade and potentiate combinatorial immunotherapy in esophageal squamous cell carcinoma
 ======
-Si Li1,2,#, Jiyu Guo1,2,#, Jiaxin Yang3,#, Gang Xu4, Yun Yu1, Kang Xu1, Juan Xu4,*, Xiaoyuan Wang3,*, Hang Yin5,*, Yongsheng Li1,2,6* 
+Si Li#, Jiyu Guo#, Jiaxin Yang#, Gang Xu4, Yun Yu1, Kang Xu1, Juan Xu4*, Xiaoyuan Wang*, Hang Yin*, Yongsheng Li1*
 
 
 Abstract
